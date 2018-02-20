@@ -17,18 +17,27 @@ Suppose you wanted to create an attribute called bugs-me-less, which if you adde
 ```HTML
     <a-text value="My Knees" bugs-me-less       position="-1.1 1.5 -1.5" color="red" font="kelsonsans"></a-text>
 ```
-To make the attribute work, you'd need to create a component. Here's how:
+To make the attribute work, you'd need to create a component. Here'show:
 
 ```JavaScript
 <script>
     AFRAME.registerComponent('bugs-me-less', {
+    init: function () {
+        var el = this.el;                     // el = an HTML element/tag that's using this component
+        el.setAttribute('opacity', 0.2);
+        el.object3D.scale.set(0.9, 0.9, 1);   // Scale documentation says this is much faster than using setAttribute
+    }
+    });
+</script>
+```
+
 Let's break it down:
 
 ```
 AFRAME.registerComponent('bugs-me-less', {
 ```
 
-AFRAME.registerComponent creates a component.
+First we need to create and register our component and give it a name, in this case bugs-me-less.
 
 ```
     init: function () {
@@ -37,14 +46,16 @@ AFRAME.registerComponent creates a component.
 init tells A-Frame,  when an HTML tag/element, like a-text in our example, is created (i.e. "initialized"), run the code in this function. In this case, that means that when you go to this page, it runs as this script on every HTML element that has the bugs-me-less attribute
 
 NOTE: normally when you create a function, you give it a name; when you need to use the function, you just call it by its name. But in this case we don't need a name for the function because we are only using the code in this one situation. This cutter function is known as an "anonymous function."
+
+```
         var el = this.el;
+```
 
+```
         el.setAttribute('opacity', 0.2);
-        el.object3D.scale.set(0.9, 0.9, 1);
 
-    }
-    });
-</script>
+```
+        el.object3D.scale.set(0.9, 0.9, 1);
 ```
 
 

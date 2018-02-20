@@ -1,9 +1,14 @@
-## test
+## Learning A-Frame
 
-- test of links
-- links
+### Getting Started
+- Creating A-Frame [HTML](basic/getting-started.html)
 
-- [Basic Components](coding/components/10-basic-component-tut.html)
-- [primitive](coding/primitives/020-gblock-primitive.html)
-- [google block](coding/primitives/010-gblock.html)
-- [furniture](coding/primitives/030-furniture.html)
+### Creating Components
+
+ONe of the great things abou A-Frame is that it's not too hard to customize it if you're comfortable doing a ittle coding in Javascript.  In these lessons we'll learn how to add custom HTML attributes called components.
+
+- Intro:  [What's Bugging Me](coding/components/00-writing-components.html) ([code]((coding/components/code/00-whats-bugging-me.html))
+- Creating a [Simple Component](coding/components/10-basic-component.html) ([code]((coding/components/code/00-whats-bugging-me.html))
+- [primitive](coding/primitives/code/020-gblock-primitive.html)
+- [google block](coding/primitives/code/010-gblock.html)
+- [furniture](coding/primitives/code/030-furniture.html)
