@@ -2,7 +2,7 @@
 
 - test of loinks
 - links
-- mi uy iub 
+- link to [another page](coding/components/test.html)
 
 
 ## more
