@@ -13,7 +13,7 @@ If you have any experience writing HTML for webpages or you're an adventurous be
 ## Customizing A-Frame
 One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding using Javascript.  
 
-- Make Your Own HTML Attributes: Creating [Components](coding//components/index.html)
+- Make Your Own HTML Attributes: Creating [Components](coding/components/index.html)
 
 Coming Soon:
  
