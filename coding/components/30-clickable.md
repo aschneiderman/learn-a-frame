@@ -59,4 +59,4 @@ What should do when a user clicks on the text?
 
 And that's it! Before you move on to the next lesson, go to [Glitch]() and see the component in action. Then try tweaking the code. 
 
-Up Next: [Adding an Object](30-clickable-2.html)
+Up Next: [Adding an Object](40-clickable-2.html)
