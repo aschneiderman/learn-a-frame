@@ -17,6 +17,9 @@ Each lesson has 4 links that let you read the **tutorial**, see a **demo** of th
 - Change Text That's Been Clicked: [tutorial](30-clickable.html), [demo](code/30-clickable.html), [code](https://github.com/mr4all/learn-a-frame/blob/master/coding/components/code/30-clickable.html), [glitch](https://glitch.com/~af-component-clickable)
 - Dynamically Create New Objects: [tutorial](40-clickable-2.html), [demo](code/40-clickable-2.html), [code](https://github.com/mr4all/learn-a-frame/blob/master/coding/components/code/40-clickable-2.html), [glitch](https://glitch.com/~af-component-clickable-2)
 
+
+NOTE: f you're in a class, start with [this example](https://glitch.com/~af-bugs-me).
+
 <!-- ### Creating Custom Primitives A.K.A. HTML Tags -->
 
 <!-- Not only can you create HTML attributes, you can also create your own HTML tags, called primitives. These lessons will show you how.
