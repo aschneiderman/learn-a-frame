@@ -1,6 +1,6 @@
 ## test
 
-- test of links
+- test of link s
 - links
 - link to [another page](coding/components/test.html)
 
