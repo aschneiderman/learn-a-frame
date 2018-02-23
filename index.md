@@ -8,7 +8,7 @@ Learn how to create an A-Frame site using [HTML](basics/getting-started.html)
 
 One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding using Javascript.  In these lessons we'll learn how to add custom HTML attributes by creating components.
 
-Each lesson has 4 links that let you read the **tutorial**, view the **code** described in the tutorial, see a **demo** of the code, and play with the code in your browser using **Glitch**.com
+Each lesson has 4 links that let you read the **tutorial**, see a **demo** of the tutorial's code, view the demo's **code**, and play with the code in your browser using **Glitch**.com
 
 - Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [glitch]()
 - Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [glitch]()
