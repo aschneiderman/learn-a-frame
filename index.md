@@ -1,4 +1,4 @@
-## Learning A-Frame  
+# Learn A-Frame  
    
 ### Getting Started
 - Creating A-Frame [HTML](basic/getting-started.html)
@@ -9,11 +9,10 @@ One of the great things about A-Frame is that it's not too hard to customize it 
 
 Each lesson has 4 links that let you read the **tutorial**, view the **code** described in the tutorial, see a **demo** of the code, and play with the code in your browser using **Glitch**.com
 
-- Intro:  [What's Bugging Me](coding/components/00-writing-components.html) ([code](coding/components/code/00-whats-bugging-me.html))
-- Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [Glitch]()
-- Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [Glitch]()
-- Interacting with the User, Part 1: [Clicking Text](coding/components/30-clickable.html) ([code](coding/components/30-clickable.html))
-- Interacting with the User, Part 2: [Creating a New Object](coding/components/30-clickable-2.html) ([code](coding/components/30-clickable-2.html))
+- Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [glitch]()
+- Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [glitch]()
+- Interacting with the User, Part 1: Clicking Text [tutorial](coding/components/30-clickable.html) ([demo](coding/components/30-clickable.html)), [code](), [glitch]()
+- Interacting with the User, Part 2: Creating New Objects [tutorial](coding/components/30-clickable-2.html) ([demo](coding/components/30-clickable-2.html)), [code](), [glitch]()
 
 <!-- ### Creating Custom Primitives A.K.A. HTML Tags -->
 
