@@ -1,11 +1,12 @@
 # Learn A-Frame  
    
-### The Basics: Writing A-Frame HTML
-- Learn how to create an A-Frame site using [HTML](basics/getting-started.html)
+## The Basics: Writing A-Frame HTML
+Learn how to create an A-Frame site using [HTML](basics/getting-started.html)
 
-### Creating Components
 
-One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding in Javascript.  In these lessons we'll learn how to add custom HTML attributes by creating components.
+## Creating Components
+
+One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding using Javascript.  In these lessons we'll learn how to add custom HTML attributes by creating components.
 
 Each lesson has 4 links that let you read the **tutorial**, view the **code** described in the tutorial, see a **demo** of the code, and play with the code in your browser using **Glitch**.com
 
