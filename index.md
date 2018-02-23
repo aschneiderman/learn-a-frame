@@ -1,20 +1,23 @@
 # Learn A-Frame  
-   
+
+[A-Frame](https://aframe.io/) is a free, open source framework for creating virtual reality  -- and, soon, augmented reality -- sites on the Internet.  This site will help you get started learning A-Frame.
+
+
 ## The Basics: Writing A-Frame HTML
-Learn how to create an A-Frame site using [HTML](basics/getting-started.html)
+
+If you have any experience writing HTML for webpages or you're an adventurous beginner, it's pretty easy to start creating A-Frame pages.
+
+-  Writing A-Frame [HTML](basics/getting-started.html)
 
 
-## Creating Components
+## Customizing A-Frame
+One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding using Javascript.  
 
-One of the great things about A-Frame is that it's not too hard to customize if you're comfortable doing a ittle coding using Javascript.  In these lessons we'll learn how to add custom HTML attributes by creating components.
+- Make Your Own HTML Attributes: Creating [Components](coding//components/index.html)
 
-Each lesson has 4 links that let you read the **tutorial**, see a **demo** of the tutorial's code, view the demo's **code**, and play with the code in your browser using **Glitch**.com
-
-- Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [glitch]()
-- Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [glitch]()
-- Changing Text That's Been Clicked: [tutorial](coding/components/30-clickable.html), [demo](coding/components/30-clickable.html), [code](), [glitch]()
-- Dynamically Creating New Objects: [tutorial](coding/components/40-clickable-2.html), [demo](coding/components/40-clickable-2.html), [code](), [glitch]()
-
+Coming Soon:
+ 
+- Make Your Own HTML Tags: Creating Primitives
 <!-- ### Creating Custom Primitives A.K.A. HTML Tags -->
 
 <!-- Not only can you create HTML attributes, you can also create your own HTML tags, called primitives. These lessons will show you how.
