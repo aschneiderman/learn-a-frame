@@ -1,4 +1,4 @@
-## Learning A-Frame 
+## Learning A-Frame  
    
 ### Getting Started
 - Creating A-Frame [HTML](basic/getting-started.html)
