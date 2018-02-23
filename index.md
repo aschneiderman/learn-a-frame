@@ -1,7 +1,7 @@
 # Learn A-Frame  
    
 ### Getting Started
-- Creating A-Frame [HTML](basic/getting-started.html)
+- Creating an A-Frame using [HTML](basics/getting-started.html)
 
 ### Creating Components
 
