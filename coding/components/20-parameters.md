@@ -9,7 +9,7 @@ In the last exercise, we learned how to add a "bugs-me-less" attribute. But supp
 
 To make that work, we will create a bugs-me-score component. 
 
- ```Javascript
+```js
     <script>
       AFRAME.registerComponent('bugs-me-score', {
         schema: {default: 10},
@@ -25,11 +25,11 @@ To make that work, we will create a bugs-me-score component.
         }
       });
     </script>
-     ```
+```
 
 If you want to change its name from bugs-me-less to bugs-me-score, all you need to do is change the name you use in registerComponent.
   
-```Javascript
+```js
       AFRAME.registerComponent('bugs-me-score', {
  ```
 
