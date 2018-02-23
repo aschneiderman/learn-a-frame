@@ -7,10 +7,10 @@
 
 One of the great things about A-Frame is that it's not too hard to customize it if you're comfortable doing a ittle coding in Javascript.  In these lessons we'll learn how to add custom HTML attributes called components.
 
-Each lesson has 4 links that let you read the **tutorial**, view the **code** described by the tutorial, see a **demo** of the code, and play with the code in your browser using **Glitch**.com
+Each lesson has 4 links that let you read the **tutorial**, view the **code** described in the tutorial, see a **demo** of the code, and play with the code in your browser using **Glitch**.com
 
 - Intro:  [What's Bugging Me](coding/components/00-writing-components.html) ([code](coding/components/code/00-whats-bugging-me.html))
-- Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [Glitch]())
+- Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [Glitch]()
 - Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [Glitch]()
 - Interacting with the User, Part 1: [Clicking Text](coding/components/30-clickable.html) ([code](coding/components/30-clickable.html))
 - Interacting with the User, Part 2: [Creating a New Object](coding/components/30-clickable-2.html) ([code](coding/components/30-clickable-2.html))
