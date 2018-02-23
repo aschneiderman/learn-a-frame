@@ -13,7 +13,7 @@ Each lesson has 4 links that let you read the **tutorial**, see a **demo** of th
 - Creating a Simple Component: [tutorial](coding/components/10-basic-component.html), [demo](coding/components/code/00-whats-bugging-me.html),  [code](),  [glitch]()
 - Adding Parameters:  [tutorial](coding/components/20-parameters.html), [demo](coding/components/code/20-parameters.html), [code](), [glitch]()
 - Changing Text That's Been Clicked: [tutorial](coding/components/30-clickable.html), [demo](coding/components/30-clickable.html), [code](), [glitch]()
-- Dynamically Creating New Objects: [tutorial](coding/components/30-clickable-2.html), [demo](coding/components/30-clickable-2.html), [code](), [glitch]()
+- Dynamically Creating New Objects: [tutorial](coding/components/40-clickable-2.html), [demo](coding/components/40-clickable-2.html), [code](), [glitch]()
 
 <!-- ### Creating Custom Primitives A.K.A. HTML Tags -->
 
