@@ -4,7 +4,7 @@ So far, if the user wants to change one of the items to show that it bugs are le
 
 The first thing we need to do is to add some HTML tells A-Frame we want to be able to click on objects:
 
-```HTML
+```html
       <a-camera mouse-cursor >
         <a-cursor color="green"></a-cursor>
       </a-camera>
@@ -20,8 +20,8 @@ Next we need to add our new attribute, could-bug-me-less, to each of the items t
 
 Now to make the magic happen. First, we change the name of the component should and could-bug-me-less:
 
-```JavaScript
-      AFRAME.registerComponent('could-bug-me-less', {
+```js
+AFRAME.registerComponent('could-bug-me-less', {
 ```
 
 Why? To show you one more time that component names aren't magical; you can use whatever name you want so long as you use the same name in the HTML as you did when you register the component.
@@ -30,7 +30,7 @@ Now we need to do something that's a little odd.
 
  It turns out that A-Frame knows that boxes and spheres and planes are clickable. But for some reason, it doesn't know that text is clickable because -- for reasons I don't understand --  it doesn't treat text as a 3 dimensional object. To fix that, we need to add a "geometry" component to each text item that we want to make clickable. The easiest way to do this is to add a plane component to it. But we don't want users to see the plane; we need to make it invisible. Here's how we do it:
 
-```JavaScript
+```js
             // Text isn't clickable out-of-the-box; we need to add a geometry component, such as a plane
             el.setAttribute('geometry', "height:auto;primitive:plane;width:4");
             el.setAttribute('material', 'opacity: 0');      // Make the plane invisible
@@ -40,7 +40,7 @@ Now we need to do something that's a little odd.
 
 Okay, on to the main event: making sure the script knows what to do if the user clicks on the text.
 
-```JavaScript
+```javascript
             el.addEventListener('click', function () {
                 el.setAttribute('opacity', 0.2);
                 el.object3D.scale.set(0.9, 0.9, 0.9);    
