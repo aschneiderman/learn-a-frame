@@ -58,10 +58,11 @@ var el = this.el;
 
 We could use this.el directly, but the convention in A-Frame is to save it in a variable called el.
 
-Next, we're going to make the text more transparent/opaque. We do it by setting the text **opaque**attribute:
+Next, we're going to make the text more transparent/opaque. We do it by setting the text **opaque** attribute:
 
 ```js
 el.setAttribute('opacity', 0.2);
+```
 
 Finally, we will shrink the text slightly by changing the text's scale attribute:
 
@@ -77,7 +78,7 @@ Because the [documentation](https://github.com/aframevr/aframe/blob/master/docs/
 >
 > [This approach is] faster by skipping .setAttribute overhead and not needing to create an object to set rotation
 
-And what's all this about three.js , object3D, Vector3  etc.?  A-Frame is built on top of a library called three.js. What they're essentially saying is that by directly calling that library, you'll improve performance. It won't make a difference if you're just changing the scale of one text element. But it could definitely make a difference if you're changing a lot of elements down the line, so it's good to get the practice of using it. And if you see it in anybody else's code, now you'll know what it is.
+What's all this about three.js , object3D, Vector3  etc.?  A-Frame is built on top of a library called three.js. What they're essentially saying is that by directly calling that library, you'll improve performance. It won't make a difference if you're just changing the scale of one text element. But it could definitely make a difference if you're changing a lot of elements down the line, so it's good to get the practice of using it. And if you see it in anybody else's code, now you'll know what it is.
 
 This also brings us to an important lesson. Components look a little weird when you first see them, but once created a couple you'll have used the same pattern over and over so it will become second nature. The hard part isn't the slightly weird JavaScript, it's getting used to all of the libraries you will end up using and dealing with dealing with issues like performance.
 
