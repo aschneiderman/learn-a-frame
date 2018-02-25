@@ -7,8 +7,8 @@
 
 - Watch this [short video](https://www.youtube.com/watch?v=DDePTwGOWKY) on how create a basic page
 - Visit a [very simple  A-Frame page](https://glitch.com/~af-hello-world) on Glitch.com.  
--- Click **Preview** to see it in action on your web browser; use the arrow keys to move and your mouse to turn.
--- Click **Remix your own**  and  experiment with your copy of  the page.  To see the results,  click **Live** at the top of the page.
+  - Click **Preview** to see it in action on your web browser; use the arrow keys to move and your mouse to turn.
+  - Click **Remix your own**  and  experiment with your copy of  the page.  To see the results,  click **Live** at the top of the page.
 
 ### How Do I Customize A-Frame?
 
