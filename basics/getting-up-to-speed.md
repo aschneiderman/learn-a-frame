@@ -1,11 +1,7 @@
-# Getting Up to Speed Quickly
+# A-Frame:  Getting Up to Speed Quickly
 
-If you're joining Mixed Reality for All and you've never played with A-Frame, here's how you can quickly get up to speed.
 
-## What Is A-Frame?  
-
-- [A-Frame](https://aframe.io/) is a free, open source framework for creating virtual reality  -- and, soon, augmented reality -- sites on the Internet.  
-- You  create A-Frame Pages using HTML and, for fancier stuff, JavaScript
+[A-Frame](https://aframe.io/) is a free, open source framework for creating virtual reality  -- and, soon, augmented reality -- sites on the Internet.  If you're joining Mixed Reality for All and you've never played with A-Frame, here's how you can get up to speed quickly.
 
 ##  How Do I Make an A-Frame Page?
 
