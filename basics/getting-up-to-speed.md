@@ -14,7 +14,7 @@
 
 One of the great things about A-Frame is that if you've had a little programming experience or are an "adventurous beginner," it's not that hard to customize it.
 
-- Go to Mixed Reality for All's tutorial on [creating components](https://mr4all.github.io/learn-a-frame/coding/components/index.html) and read the first lesson on [creating a simple component](https://mr4all.github.io/learn-a-frame/coding/components/10-basic-component.html).
+- Go to Mixed Reality for All's tutorial on creating components and skim the first lesson on [creating a simple component](https://mr4all.github.io/learn-a-frame/coding/components/10-basic-component.html).
 - Go to the lesson's sample code [on Glitch](https://glitch.com/~af-basic-component), click **Remix your own**  and experiment with it.
 
 And that's it!
