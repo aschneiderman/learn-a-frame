@@ -18,6 +18,11 @@ One of the great things about A-Frame is that it's not too hard to customize if 
 Coming Soon:
  
 - Make Your Own HTML Tags: Creating Primitives
+
+
+### Getting Up to Speed Quickly
+
+If you're joining the Mixed Reality for All project and need a quick overview of coding with A-Frame, check out our [Quick Start] (/basics/getting-up-to-speed.html) page.
 <!-- ### Creating Custom Primitives A.K.A. HTML Tags -->
 
 <!-- Not only can you create HTML attributes, you can also create your own HTML tags, called primitives. These lessons will show you how.
