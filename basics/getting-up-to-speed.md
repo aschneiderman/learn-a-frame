@@ -24,7 +24,8 @@ And that's it!
 
 ## If You Have More Time
 
-Have a little more time?  Here's how to go a little deeper
+Have a little more time?  Here's how to go a little deeper:
+
 - Skim [Building a Basic Scene](https://aframe.io/docs/0.7.0/guides/building-a-basic-scene.html),  A-Frame's intro tutorial.  It's a little geekier than the short intro video, but it's a good quick overview of the tricks you can do just using A-Frame HTML.
 - To see what A-Frame can do, check out A-Frame's [list of examples](https://aframe.io/aframe/examples/), which includes their [source code](https://github.com/aframevr/aframe/tree/master/examples) (on GitHub) so you can see how they did it.  Also check out the [Week of A-Frame](https://aframe.io/blog/) blog.
 - Read the rest of the lessons on [creating components](https://mr4all.github.io/learn-a-frame/coding/components/index.html), and experiment with their code on Glitch
