@@ -12,7 +12,7 @@ Let's say you made an A-frame page with a list of things that are really bugging
 </a-scene>
 ```
 
-Before you go any further, see what the [list looks like](https://mr4all.github.io/learn-a-frame/coding/components/code/00-whats-bugging-me.html) in VR; you can also play with it on [Glitch](https://glitch.com/~af-bugs-me).
+Before you go any further, see what the [list looks like](code/00-whats-bugging-me.html) in VR; you can also play with it on [Glitch](https://glitch.com/~af-bugs-me).
 
 Suppose you want to create an attribute called **bugs-me-less**:
 
